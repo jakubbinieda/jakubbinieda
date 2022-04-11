@@ -4,10 +4,10 @@ class me:
     current_education="TCS@UJ"
     current_location="Cracow"
     hobbies=[
-    			'Star Wars',
+                'Star Wars',
                 'Coding',
-    		 	'Gaming',
-    			'Reading'
+                'Gaming',
+                'Reading'
     		]
     
     def getFavLanguage():
