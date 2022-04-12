@@ -1,3 +1,5 @@
+<h1 align="center">Hi visitor, I'm Jakub Binięda!</h1>
+
 ```python
 class me:
     name='Jakub Binięda'
