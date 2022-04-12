@@ -24,3 +24,9 @@ class me:
         return "finalist of Olympiad of Technical Innovation and Inventiveness" 
         #to be expanded
 ```
+
+<h3 align="center">If you like numbers:</h3>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubbinieda&layout=compact&theme=radical"/>
+</div>
