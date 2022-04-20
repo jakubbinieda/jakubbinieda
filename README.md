@@ -3,8 +3,8 @@
 ```python
 class me:
     name='Jakub Binięda'
-    current_education="TCS@UJ"
-    current_location="Cracow"
+    current_education='TCS@UJ'
+    current_location='Cracow'
     hobbies=[
                 'Star Wars',
                 'Coding',
@@ -21,7 +21,7 @@ class me:
     	webDesigner() #at MRM BB
     	
     def achievements():
-        return "finalist of Olympiad of Technical Innovation and Inventiveness" 
+        return 'finalist of Olympiad of Technical Innovation and Inventiveness'
         #to be expanded
 ```
 
