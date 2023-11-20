@@ -1,7 +1,6 @@
 <h1 align="center">Hi visitor, I'm Jakub Binięda!</h1>
 
 ```python
-# proven.lol/068e36
 class me:
     name='Jakub Binięda'
     current_education='TCS@UJ'
@@ -31,3 +30,5 @@ class me:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubbinieda&layout=compact&theme=radical"/>
 </div>
+
+[//]: <> (proven.lol/068e36)
