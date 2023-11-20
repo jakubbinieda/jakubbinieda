@@ -31,4 +31,4 @@ class me:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubbinieda&layout=compact&theme=radical"/>
 </div>
 
-[//]: <> (proven.lol/068e36)
+[//]: <> (proven.lol/8dfeef)
